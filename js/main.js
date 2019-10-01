@@ -454,7 +454,7 @@
 		// exploreAnimate();
 		gettingStartedAnimate();
 		// pricingAnimate();
-		// servicesAnimate();
+		servicesAnimate();
 		// teamAnimate();
 		footerAnimate();
 		counter();
