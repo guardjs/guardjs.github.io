@@ -1,0 +1,1134 @@
+div.LI-profile-badge a.LI-simple-link {
+  display: none
+}
+
+.LI-badge-container.horizontal.dark {
+  /*! normalize.css v2.1.2 | MIT License | git.io/normalize */
+  ;@font-face {
+      font-family: "LinkedIn-Glyphs";
+      src: url('/sc/h/3jf6laxboeghfyz73f4jtjnbp');
+      src: url('/sc/h/3jf6laxboeghfyz73f4jtjnbp?#iefix') format('embedded-opentype'),url('/sc/h/b3ma2g3y7wk4n2zryxzn3l8ok') format('woff'), url('/sc/h/e5vznv0p41shxhhwvzkoe3cyv') format('truetype');
+      font-weight: normal;
+      font-style: normal
+  }
+
+  ;@font-face {
+      font-family: "LinkedIn-Glyphs-2.0.2";
+      src: url('/sc/h/3jf6laxboeghfyz73f4jtjnbp');
+      src: url('/sc/h/3jf6laxboeghfyz73f4jtjnbp?#iefix') format('embedded-opentype'),url('/sc/h/b3ma2g3y7wk4n2zryxzn3l8ok') format('woff'), url('/sc/h/e5vznv0p41shxhhwvzkoe3cyv') format('truetype');
+      font-weight: normal;
+      font-style: normal
+  }
+
+  ;@-webkit-keyframes archetype-loader {
+      from {
+          -webkit-transform: rotate(0deg)
+      }
+
+      to {
+          -webkit-transform: rotate(360deg)
+      }
+  }
+
+  ;@-moz-keyframes archetype-loader {
+      from {
+          -moz-transform: rotate(0deg)
+      }
+
+      to {
+          -moz-transform: rotate(360deg)
+      }
+  }
+
+  ;@-ms-keyframes archetype-loader {
+      from {
+          -ms-transform: rotate(0deg)
+      }
+
+      to {
+          -ms-transform: rotate(360deg)
+      }
+  }
+
+  ;@-o-keyframes archetype-loader {
+      from {
+          -o-transform: rotate(0deg)
+      }
+
+      to {
+          -o-transform: rotate(360deg)
+      }
+  }
+
+  ;@keyframes archetype-loader {
+      from {
+          transform: rotate(0deg)
+      }
+
+      to {
+          transform: rotate(360deg)
+      }
+  }
+
+  ;@-webkit-keyframes archetype-loader-position-medium-1 {
+      from,to {
+          background-position: 0 -288px;
+          width: 58px;
+          height: 58px;
+          margin-left: -29px;
+          margin-top: -29px
+      }
+  }
+
+  ;@-moz-keyframes archetype-loader-position-medium-1 {
+      from,to {
+          background-position: 0 -288px;
+          width: 58px;
+          height: 58px;
+          margin-left: -29px;
+          margin-top: -29px
+      }
+  }
+
+  ;@-ms-keyframes archetype-loader-position-medium-1 {
+      from,to {
+          background-position: 0 -288px;
+          width: 58px;
+          height: 58px;
+          margin-left: -29px;
+          margin-top: -29px
+      }
+  }
+
+  ;@-o-keyframes archetype-loader-position-medium-1 {
+      from,to {
+          background-position: 0 -288px;
+          width: 58px;
+          height: 58px;
+          margin-left: -29px;
+          margin-top: -29px
+      }
+  }
+
+  ;@keyframes archetype-loader-position-medium-1 {
+      from,to {
+          background-position: 0 -288px;
+          width: 58px;
+          height: 58px;
+          margin-left: -29px;
+          margin-top: -29px
+      }
+  }
+
+  ;@-webkit-keyframes archetype-loader-position-medium-2 {
+      from,to {
+          background-position: 0 -230px;
+          width: 58px;
+          height: 58px;
+          margin-left: -29px;
+          margin-top: -29px
+      }
+  }
+
+  ;@-moz-keyframes archetype-loader-position-medium-2 {
+      from,to {
+          background-position: 0 -230px;
+          width: 58px;
+          height: 58px;
+          margin-left: -29px;
+          margin-top: -29px
+      }
+  }
+
+  ;@-ms-keyframes archetype-loader-position-medium-2 {
+      from,to {
+          background-position: 0 -230px;
+          width: 58px;
+          height: 58px;
+          margin-left: -29px;
+          margin-top: -29px
+      }
+  }
+
+  ;@-o-keyframes archetype-loader-position-medium-2 {
+      from,to {
+          background-position: 0 -230px;
+          width: 58px;
+          height: 58px;
+          margin-left: -29px;
+          margin-top: -29px
+      }
+  }
+
+  ;@keyframes archetype-loader-position-medium-2 {
+      from,to {
+          background-position: 0 -230px;
+          width: 58px;
+          height: 58px;
+          margin-left: -29px;
+          margin-top: -29px
+      }
+  }
+
+  ;@-webkit-keyframes archetype-loader-position-small-1 {
+      from,to {
+          background-position: 0 -362px;
+          width: 16px;
+          height: 16px;
+          margin-left: -8px;
+          margin-top: -8px
+      }
+  }
+
+  ;@-moz-keyframes archetype-loader-position-small-1 {
+      from,to {
+          background-position: 0 -362px;
+          width: 16px;
+          height: 16px;
+          margin-left: -8px;
+          margin-top: -8px
+      }
+  }
+
+  ;@-ms-keyframes archetype-loader-position-small-1 {
+      from,to {
+          background-position: 0 -362px;
+          width: 16px;
+          height: 16px;
+          margin-left: -8px;
+          margin-top: -8px
+      }
+  }
+
+  ;@-o-keyframes archetype-loader-position-small-1 {
+      from,to {
+          background-position: 0 -362px;
+          width: 16px;
+          height: 16px;
+          margin-left: -8px;
+          margin-top: -8px
+      }
+  }
+
+  ;@keyframes archetype-loader-position-small-1 {
+      from,to {
+          background-position: 0 -362px;
+          width: 16px;
+          height: 16px;
+          margin-left: -8px;
+          margin-top: -8px
+      }
+  }
+
+  ;@-webkit-keyframes archetype-loader-position-small-2 {
+      from,to {
+          background-position: 0 -346px;
+          width: 16px;
+          height: 16px;
+          margin-left: -8px;
+          margin-top: -8px
+      }
+  }
+
+  ;@-moz-keyframes archetype-loader-position-small-2 {
+      from,to {
+          background-position: 0 -346px;
+          width: 16px;
+          height: 16px;
+          margin-left: -8px;
+          margin-top: -8px
+      }
+  }
+
+  ;@-ms-keyframes archetype-loader-position-small-2 {
+      from,to {
+          background-position: 0 -346px;
+          width: 16px;
+          height: 16px;
+          margin-left: -8px;
+          margin-top: -8px
+      }
+  }
+
+  ;@-o-keyframes archetype-loader-position-small-2 {
+      from,to {
+          background-position: 0 -346px;
+          width: 16px;
+          height: 16px;
+          margin-left: -8px;
+          margin-top: -8px
+      }
+  }
+
+  ;@keyframes archetype-loader-position-small-2 {
+      from,to {
+          background-position: 0 -346px;
+          width: 16px;
+          height: 16px;
+          margin-left: -8px;
+          margin-top: -8px
+      }
+  }
+
+  ;@-webkit-keyframes archetype-loader-position-large-1 {
+      from,to {
+          background-position: 0 -115px;
+          width: 115px;
+          height: 115px;
+          margin-left: -57.5px;
+          margin-top: -57.5px
+      }
+  }
+
+  ;@-moz-keyframes archetype-loader-position-large-1 {
+      from,to {
+          background-position: 0 -115px;
+          width: 115px;
+          height: 115px;
+          margin-left: -57.5px;
+          margin-top: -57.5px
+      }
+  }
+
+  ;@-ms-keyframes archetype-loader-position-large-1 {
+      from,to {
+          background-position: 0 -115px;
+          width: 115px;
+          height: 115px;
+          margin-left: -57.5px;
+          margin-top: -57.5px
+      }
+  }
+
+  ;@-o-keyframes archetype-loader-position-large-1 {
+      from,to {
+          background-position: 0 -115px;
+          width: 115px;
+          height: 115px;
+          margin-left: -57.5px;
+          margin-top: -57.5px
+      }
+  }
+
+  ;@keyframes archetype-loader-position-large-1 {
+      from,to {
+          background-position: 0 -115px;
+          width: 115px;
+          height: 115px;
+          margin-left: -57.5px;
+          margin-top: -57.5px
+      }
+  }
+
+  ;@-webkit-keyframes archetype-loader-position-large-2 {
+      from,to {
+          background-position: 0 0;
+          width: 115px;
+          height: 115px;
+          margin-left: -57.5px;
+          margin-top: -57.5px
+      }
+  }
+
+  ;@-moz-keyframes archetype-loader-position-large-2 {
+      from,to {
+          background-position: 0 0;
+          width: 115px;
+          height: 115px;
+          margin-left: -57.5px;
+          margin-top: -57.5px
+      }
+  }
+
+  ;@-ms-keyframes archetype-loader-position-large-2 {
+      from,to {
+          background-position: 0 0;
+          width: 115px;
+          height: 115px;
+          margin-left: -57.5px;
+          margin-top: -57.5px
+      }
+  }
+
+  ;@-o-keyframes archetype-loader-position-large-2 {
+      from,to {
+          background-position: 0 0;
+          width: 115px;
+          height: 115px;
+          margin-left: -57.5px;
+          margin-top: -57.5px
+      }
+  }
+
+  ;@keyframes archetype-loader-position-large-2 {
+      from,to {
+          background-position: 0 0;
+          width: 115px;
+          height: 115px;
+          margin-left: -57.5px;
+          margin-top: -57.5px
+      }
+  }
+
+  ;background: #303336;
+  background-color: #303336
+}
+
+.LI-badge-container.horizontal.dark html,.LI-badge-container.horizontal.dark body,.LI-badge-container.horizontal.dark div,.LI-badge-container.horizontal.dark span,.LI-badge-container.horizontal.dark applet,.LI-badge-container.horizontal.dark object,.LI-badge-container.horizontal.dark iframe,.LI-badge-container.horizontal.dark h1,.LI-badge-container.horizontal.dark h2,.LI-badge-container.horizontal.dark h3,.LI-badge-container.horizontal.dark h4,.LI-badge-container.horizontal.dark h5,.LI-badge-container.horizontal.dark h6,.LI-badge-container.horizontal.dark p,.LI-badge-container.horizontal.dark blockquote,.LI-badge-container.horizontal.dark pre,.LI-badge-container.horizontal.dark a,.LI-badge-container.horizontal.dark abbr,.LI-badge-container.horizontal.dark acronym,.LI-badge-container.horizontal.dark address,.LI-badge-container.horizontal.dark big,.LI-badge-container.horizontal.dark cite,.LI-badge-container.horizontal.dark code,.LI-badge-container.horizontal.dark del,.LI-badge-container.horizontal.dark dfn,.LI-badge-container.horizontal.dark em,.LI-badge-container.horizontal.dark img,.LI-badge-container.horizontal.dark ins,.LI-badge-container.horizontal.dark kbd,.LI-badge-container.horizontal.dark q,.LI-badge-container.horizontal.dark s,.LI-badge-container.horizontal.dark samp,.LI-badge-container.horizontal.dark small,.LI-badge-container.horizontal.dark strike,.LI-badge-container.horizontal.dark strong,.LI-badge-container.horizontal.dark sub,.LI-badge-container.horizontal.dark sup,.LI-badge-container.horizontal.dark tt,.LI-badge-container.horizontal.dark var,.LI-badge-container.horizontal.dark b,.LI-badge-container.horizontal.dark u,.LI-badge-container.horizontal.dark i,.LI-badge-container.horizontal.dark center,.LI-badge-container.horizontal.dark dl,.LI-badge-container.horizontal.dark dt,.LI-badge-container.horizontal.dark dd,.LI-badge-container.horizontal.dark ol,.LI-badge-container.horizontal.dark ul,.LI-badge-container.horizontal.dark li,.LI-badge-container.horizontal.dark fieldset,.LI-badge-container.horizontal.dark form,.LI-badge-container.horizontal.dark label,.LI-badge-container.horizontal.dark legend,.LI-badge-container.horizontal.dark table,.LI-badge-container.horizontal.dark caption,.LI-badge-container.horizontal.dark tbody,.LI-badge-container.horizontal.dark tfoot,.LI-badge-container.horizontal.dark thead,.LI-badge-container.horizontal.dark tr,.LI-badge-container.horizontal.dark th,.LI-badge-container.horizontal.dark td,.LI-badge-container.horizontal.dark article,.LI-badge-container.horizontal.dark aside,.LI-badge-container.horizontal.dark canvas,.LI-badge-container.horizontal.dark details,.LI-badge-container.horizontal.dark embed,.LI-badge-container.horizontal.dark figure,.LI-badge-container.horizontal.dark figcaption,.LI-badge-container.horizontal.dark footer,.LI-badge-container.horizontal.dark header,.LI-badge-container.horizontal.dark hgroup,.LI-badge-container.horizontal.dark menu,.LI-badge-container.horizontal.dark nav,.LI-badge-container.horizontal.dark output,.LI-badge-container.horizontal.dark ruby,.LI-badge-container.horizontal.dark section,.LI-badge-container.horizontal.dark summary,.LI-badge-container.horizontal.dark time,.LI-badge-container.horizontal.dark mark,.LI-badge-container.horizontal.dark audio,.LI-badge-container.horizontal.dark video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline
+}
+
+.LI-badge-container.horizontal.dark body {
+  line-height: 1
+}
+
+.LI-badge-container.horizontal.dark ol,.LI-badge-container.horizontal.dark ul {
+  list-style: none
+}
+
+.LI-badge-container.horizontal.dark table {
+  border-collapse: collapse;
+  border-spacing: 0
+}
+
+.LI-badge-container.horizontal.dark caption,.LI-badge-container.horizontal.dark th,.LI-badge-container.horizontal.dark td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle
+}
+
+.LI-badge-container.horizontal.dark q,.LI-badge-container.horizontal.dark blockquote {
+  quotes: none
+}
+
+.LI-badge-container.horizontal.dark q:before,.LI-badge-container.horizontal.dark q:after,.LI-badge-container.horizontal.dark blockquote:before,.LI-badge-container.horizontal.dark blockquote:after {
+  content: "";
+  content: none
+}
+
+.LI-badge-container.horizontal.dark a img {
+  border: none
+}
+
+.LI-badge-container.horizontal.dark article,.LI-badge-container.horizontal.dark aside,.LI-badge-container.horizontal.dark details,.LI-badge-container.horizontal.dark figcaption,.LI-badge-container.horizontal.dark figure,.LI-badge-container.horizontal.dark footer,.LI-badge-container.horizontal.dark header,.LI-badge-container.horizontal.dark hgroup,.LI-badge-container.horizontal.dark menu,.LI-badge-container.horizontal.dark nav,.LI-badge-container.horizontal.dark section,.LI-badge-container.horizontal.dark summary {
+  display: block
+}
+
+.LI-badge-container.horizontal.dark input[data-ime-mode-disabled],.LI-badge-container.horizontal.dark input[type=file] {
+  ime-mode: disabled !important
+}
+
+.LI-badge-container.horizontal.dark html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%
+}
+
+.LI-badge-container.horizontal.dark a:focus {
+  outline: thin dotted
+}
+
+.LI-badge-container.horizontal.dark a:active,.LI-badge-container.horizontal.dark a:hover {
+  outline: 0
+}
+
+.LI-badge-container.horizontal.dark code,.LI-badge-container.horizontal.dark kbd,.LI-badge-container.horizontal.dark pre,.LI-badge-container.horizontal.dark samp {
+  font-family: monospace, serif;
+  font-size: 1em
+}
+
+.LI-badge-container.horizontal.dark pre {
+  white-space: pre;
+  white-space: pre-wrap;
+  word-wrap: break-word
+}
+
+.LI-badge-container.horizontal.dark small {
+  font-size: 80%
+}
+
+.LI-badge-container.horizontal.dark sub,.LI-badge-container.horizontal.dark sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline
+}
+
+.LI-badge-container.horizontal.dark sup {
+  top: -0.5em
+}
+
+.LI-badge-container.horizontal.dark sub {
+  bottom: -0.25em
+}
+
+.LI-badge-container.horizontal.dark img {
+  border: 0
+}
+
+.LI-badge-container.horizontal.dark form {
+  margin: 0
+}
+
+.LI-badge-container.horizontal.dark legend {
+  border: 0;
+  padding: 0;
+  white-space: normal
+}
+
+.LI-badge-container.horizontal.dark button,.LI-badge-container.horizontal.dark input,.LI-badge-container.horizontal.dark select,.LI-badge-container.horizontal.dark textarea {
+  font-family: inherit;
+  font-size: 100%;
+  margin: 0;
+  vertical-align: baseline
+}
+
+.LI-badge-container.horizontal.dark button,.LI-badge-container.horizontal.dark input {
+  line-height: normal
+}
+
+.LI-badge-container.horizontal.dark button,.LI-badge-container.horizontal.dark select {
+  text-transform: none
+}
+
+.LI-badge-container.horizontal.dark button,.LI-badge-container.horizontal.dark html input[type="button"],.LI-badge-container.horizontal.dark input[type="reset"],.LI-badge-container.horizontal.dark input[type="submit"] {
+  -webkit-appearance: button;
+  cursor: pointer
+}
+
+.LI-badge-container.horizontal.dark button[disabled],.LI-badge-container.horizontal.dark html input[disabled] {
+  cursor: default
+}
+
+.LI-badge-container.horizontal.dark input[type="checkbox"],.LI-badge-container.horizontal.dark input[type="radio"] {
+  box-sizing: border-box;
+  padding: 0
+}
+
+.LI-badge-container.horizontal.dark input[type="search"] {
+  -webkit-appearance: textfield;
+  -moz-box-sizing: content-box;
+  -webkit-box-sizing: content-box;
+  box-sizing: content-box
+}
+
+.LI-badge-container.horizontal.dark input[type="search"]::-webkit-search-cancel-button,.LI-badge-container.horizontal.dark input[type="search"]::-webkit-search-decoration {
+  -webkit-appearance: none
+}
+
+.LI-badge-container.horizontal.dark button::-moz-focus-inner,.LI-badge-container.horizontal.dark input::-moz-focus-inner {
+  border: 0;
+  padding: 0
+}
+
+.LI-badge-container.horizontal.dark textarea {
+  overflow: auto;
+  vertical-align: top
+}
+
+.LI-badge-container.horizontal.dark fieldset {
+  border: 1px solid #c0c0c0;
+  margin: 0 2px;
+  padding: 0.35em 0.625em 0.75em
+}
+
+.LI-badge-container.horizontal.dark body {
+  background: #e6e9ec
+}
+
+.LI-badge-container.horizontal.dark body,.LI-badge-container.horizontal.dark button,.LI-badge-container.horizontal.dark input,.LI-badge-container.horizontal.dark textarea {
+  font-family: sans-serif
+}
+
+.os-win .LI-badge-container.horizontal.dark body,.os-win .LI-badge-container.horizontal.dark button,.os-win .LI-badge-container.horizontal.dark input,.os-win .LI-badge-container.horizontal.dark textarea {
+  font-family: Arial,sans-serif
+}
+
+.os-mac .LI-badge-container.horizontal.dark body,.os-mac .LI-badge-container.horizontal.dark button,.os-mac .LI-badge-container.horizontal.dark input,.os-mac .LI-badge-container.horizontal.dark textarea {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif
+}
+
+.os-linux .LI-badge-container.horizontal.dark body,.os-linux .LI-badge-container.horizontal.dark button,.os-linux .LI-badge-container.horizontal.dark input,.os-linux .LI-badge-container.horizontal.dark textarea {
+  font-family: "Helvetica Neue",Helvetica,FreeSans,"Liberation Sans",Helmet,Arial,sans-serif
+}
+
+.LI-badge-container.horizontal.dark #wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 974px;
+  background: #e6e9ec
+}
+
+.LI-badge-container.horizontal.dark a {
+  color: #008cc9;
+  text-decoration: none
+}
+
+.LI-badge-container.horizontal.dark a.hover,.LI-badge-container.horizontal.dark a:hover,.LI-badge-container.horizontal.dark a.focus,.LI-badge-container.horizontal.dark a:focus {
+  text-decoration: underline;
+  color: #005e93
+}
+
+.LI-badge-container.horizontal.dark a.visited,.LI-badge-container.horizontal.dark a:visited {
+  color: #008cc9
+}
+
+.LI-badge-container.horizontal.dark a.active,.LI-badge-container.horizontal.dark a:active {
+  color: #005e93
+}
+
+.LI-badge-container.horizontal.dark a.visited-hover,.LI-badge-container.horizontal.dark a:visited:hover,.LI-badge-container.horizontal.dark a:visited:focus,.LI-badge-container.horizontal.dark a.visited:hover,.LI-badge-container.horizontal.dark a.visited:focus {
+  color: #005e93;
+  text-decoration: underline
+}
+
+.LI-badge-container.horizontal.dark a.visited-active,.LI-badge-container.horizontal.dark a:visited:active,.LI-badge-container.horizontal.dark a.visited:active {
+  color: #005e93
+}
+
+.LI-badge-container.horizontal.dark span.error {
+  font-weight: bold;
+  color: #900
+}
+
+.LI-badge-container.horizontal.dark div.alert {
+  margin-bottom: 15px
+}
+
+.LI-badge-container.horizontal.dark div.alert,.LI-badge-container.horizontal.dark div.alert.error {
+  background-color: #dd2e1f;
+  overflow: hidden;
+  display: block;
+  color: #fff;
+  font-size: 15px;
+  line-height: 20px;
+  position: relative;
+  padding: 10px 20px 10px 50px;
+  font-weight: bold
+}
+
+.LI-badge-container.horizontal.dark div.alert:before,.LI-badge-container.horizontal.dark div.alert.error:before {
+  font-family: "LinkedIn-Glyphs-2.0.2","LinkedIn-Glyphs";
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: inherit;
+  speak: none;
+  font-size: 26px;
+  color: inherit;
+  content: "\e001"
+}
+
+.LI-badge-container.horizontal.dark div.alert:before,.LI-badge-container.horizontal.dark div.alert.error:before {
+  position: absolute;
+  top: 7px;
+  left: 12px;
+  line-height: 1
+}
+
+.LI-badge-container.horizontal.dark div.alert strong {
+  font-weight: normal
+}
+
+.LI-badge-container.horizontal.dark div.alert strong.strong,.LI-badge-container.horizontal.dark div.alert b {
+  font-weight: bold
+}
+
+.LI-badge-container.horizontal.dark div.alert p {
+  margin: 0;
+  font-size: 100%
+}
+
+.LI-badge-container.horizontal.dark div.alert p+p {
+  margin-top: 5px
+}
+
+.LI-badge-container.horizontal.dark div.alert img {
+  display: none
+}
+
+.LI-badge-container.horizontal.dark div.alert a {
+  color: #fff;
+  text-decoration: underline;
+  font-weight: bold
+}
+
+.LI-badge-container.horizontal.dark div.alert a.hover,.LI-badge-container.horizontal.dark div.alert a:hover,.LI-badge-container.horizontal.dark div.alert a.focus,.LI-badge-container.horizontal.dark div.alert a:focus {
+  text-decoration: underline
+}
+
+.LI-badge-container.horizontal.dark div.alert a.active,.LI-badge-container.horizontal.dark div.alert a:active {
+  color: #005e93
+}
+
+.LI-badge-container.horizontal.dark div.alert a.visited-hover,.LI-badge-container.horizontal.dark div.alert a:visited:hover,.LI-badge-container.horizontal.dark div.alert a:visited:focus,.LI-badge-container.horizontal.dark div.alert a.visited:hover,.LI-badge-container.horizontal.dark div.alert a.visited:focus {
+  color: #005e93;
+  text-decoration: underline
+}
+
+.LI-badge-container.horizontal.dark div.alert a.visited-active,.LI-badge-container.horizontal.dark div.alert a:visited:active,.LI-badge-container.horizontal.dark div.alert a.visited:active {
+  color: #005e93
+}
+
+.LI-badge-container.horizontal.dark div.alert:hover a {
+  text-decoration: underline
+}
+
+.LI-badge-container.horizontal.dark div.alert ul {
+  margin: 0 21px 5px 7px
+}
+
+.LI-badge-container.horizontal.dark div.alert .dismiss,.LI-badge-container.horizontal.dark div.alert #notice-close {
+  color: #fff;
+  background: transparent none;
+  padding: 0 1px 0 0;
+  border: 0;
+  margin: 0;
+  cursor: pointer;
+  text-decoration: none;
+  position: absolute;
+  overflow: hidden;
+  top: 50%;
+  right: 10px;
+  width: 13px;
+  height: 13px;
+  text-indent: 14px;
+  margin-top: -6.5px;
+  padding: 0
+}
+
+.LI-badge-container.horizontal.dark div.alert .dismiss:before,.LI-badge-container.horizontal.dark div.alert #notice-close:before {
+  font-family: "LinkedIn-Glyphs-2.0.2","LinkedIn-Glyphs";
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: inherit;
+  speak: none;
+  font-size: 13px;
+  color: inherit;
+  content: "\e00f"
+}
+
+.LI-badge-container.horizontal.dark div.alert .dismiss:before,.LI-badge-container.horizontal.dark div.alert #notice-close:before {
+  vertical-align: top;
+  line-height: 1;
+  position: absolute;
+  top: 0;
+  right: 0;
+  text-decoration: none;
+  cursor: pointer
+}
+
+.LI-badge-container.horizontal.dark div.alert .dismiss.hover,.LI-badge-container.horizontal.dark div.alert .dismiss:hover,.LI-badge-container.horizontal.dark div.alert .dismiss.focus,.LI-badge-container.horizontal.dark div.alert .dismiss:focus,.LI-badge-container.horizontal.dark div.alert #notice-close.hover,.LI-badge-container.horizontal.dark div.alert #notice-close:hover,.LI-badge-container.horizontal.dark div.alert #notice-close.focus,.LI-badge-container.horizontal.dark div.alert #notice-close:focus {
+  text-shadow: 1px 1px 1px rgba(0,0,0,0.35)
+}
+
+.LI-badge-container.horizontal.dark div.alert.attention,.LI-badge-container.horizontal.dark div.alert.warning {
+  background-color: #ec640c;
+  overflow: hidden;
+  display: block;
+  color: #fff;
+  font-size: 15px;
+  line-height: 20px;
+  position: relative;
+  padding: 10px 20px 10px 50px;
+  font-weight: bold
+}
+
+.LI-badge-container.horizontal.dark div.alert.attention:before,.LI-badge-container.horizontal.dark div.alert.warning:before {
+  font-family: "LinkedIn-Glyphs-2.0.2","LinkedIn-Glyphs";
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: inherit;
+  speak: none;
+  font-size: 26px;
+  color: inherit;
+  content: "\e003"
+}
+
+.LI-badge-container.horizontal.dark div.alert.attention:before,.LI-badge-container.horizontal.dark div.alert.warning:before {
+  position: absolute;
+  top: 7px;
+  left: 12px;
+  line-height: 1
+}
+
+.LI-badge-container.horizontal.dark div.alert.success {
+  background-color: #4e8f13;
+  overflow: hidden;
+  display: block;
+  color: #fff;
+  font-size: 15px;
+  line-height: 20px;
+  position: relative;
+  padding: 10px 20px 10px 50px;
+  font-weight: bold
+}
+
+.LI-badge-container.horizontal.dark div.alert.success:before {
+  font-family: "LinkedIn-Glyphs-2.0.2","LinkedIn-Glyphs";
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: inherit;
+  speak: none;
+  font-size: 26px;
+  color: inherit;
+  content: "\e000"
+}
+
+.LI-badge-container.horizontal.dark div.alert.success:before {
+  position: absolute;
+  top: 7px;
+  left: 12px;
+  line-height: 1
+}
+
+.LI-badge-container.horizontal.dark div.alert.notice {
+  background-color: #737679;
+  overflow: hidden;
+  display: block;
+  color: #fff;
+  font-size: 15px;
+  line-height: 20px;
+  position: relative;
+  padding: 10px 20px 10px 50px;
+  font-weight: bold
+}
+
+.LI-badge-container.horizontal.dark div.alert.notice:before {
+  font-family: "LinkedIn-Glyphs-2.0.2","LinkedIn-Glyphs";
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: inherit;
+  speak: none;
+  font-size: 26px;
+  color: inherit;
+  content: "\e002"
+}
+
+.LI-badge-container.horizontal.dark div.alert.notice:before {
+  position: absolute;
+  top: 7px;
+  left: 12px;
+  line-height: 1
+}
+
+.LI-badge-container.horizontal.dark {
+  border-radius: 2px;
+  display: inline-block !important;
+  -webkit-box-shadow: 0 0 2px rgba(0,0,0,0.24);
+  -moz-box-shadow: 0 0 2px rgba(0,0,0,0.24);
+  box-shadow: 0 0 2px rgba(0,0,0,0.24);
+  word-wrap: break-word;
+  word-break: break-word
+}
+
+.LI-badge-container.horizontal.dark {
+  font-family: sans-serif
+}
+
+.os-win .LI-badge-container.horizontal.dark {
+  font-family: Arial,sans-serif
+}
+
+.os-mac .LI-badge-container.horizontal.dark {
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif
+}
+
+.os-linux .LI-badge-container.horizontal.dark {
+  font-family: "Helvetica Neue",Helvetica,FreeSans,"Liberation Sans",Helmet,Arial,sans-serif
+}
+
+.LI-badge-container.horizontal.dark .LI-profile-pic {
+  border-radius: 50%
+}
+
+.LI-badge-container.horizontal.dark .LI-view-profile {
+  max-width: 240px;
+  white-space: inherit;
+  height: auto
+}
+
+.LI-badge-container.horizontal.dark html,.LI-badge-container.horizontal.dark body,.LI-badge-container.horizontal.dark div,.LI-badge-container.horizontal.dark span,.LI-badge-container.horizontal.dark applet,.LI-badge-container.horizontal.dark object,.LI-badge-container.horizontal.dark iframe,.LI-badge-container.horizontal.dark h1,.LI-badge-container.horizontal.dark h2,.LI-badge-container.horizontal.dark h3,.LI-badge-container.horizontal.dark h4,.LI-badge-container.horizontal.dark h5,.LI-badge-container.horizontal.dark h6,.LI-badge-container.horizontal.dark p,.LI-badge-container.horizontal.dark blockquote,.LI-badge-container.horizontal.dark pre,.LI-badge-container.horizontal.dark a,.LI-badge-container.horizontal.dark abbr,.LI-badge-container.horizontal.dark acronym,.LI-badge-container.horizontal.dark address,.LI-badge-container.horizontal.dark big,.LI-badge-container.horizontal.dark cite,.LI-badge-container.horizontal.dark code,.LI-badge-container.horizontal.dark del,.LI-badge-container.horizontal.dark dfn,.LI-badge-container.horizontal.dark em,.LI-badge-container.horizontal.dark img,.LI-badge-container.horizontal.dark ins,.LI-badge-container.horizontal.dark kbd,.LI-badge-container.horizontal.dark q,.LI-badge-container.horizontal.dark s,.LI-badge-container.horizontal.dark samp,.LI-badge-container.horizontal.dark small,.LI-badge-container.horizontal.dark strike,.LI-badge-container.horizontal.dark strong,.LI-badge-container.horizontal.dark sub,.LI-badge-container.horizontal.dark sup,.LI-badge-container.horizontal.dark tt,.LI-badge-container.horizontal.dark var,.LI-badge-container.horizontal.dark b,.LI-badge-container.horizontal.dark u,.LI-badge-container.horizontal.dark i,.LI-badge-container.horizontal.dark center,.LI-badge-container.horizontal.dark dl,.LI-badge-container.horizontal.dark dt,.LI-badge-container.horizontal.dark dd,.LI-badge-container.horizontal.dark ol,.LI-badge-container.horizontal.dark ul,.LI-badge-container.horizontal.dark li,.LI-badge-container.horizontal.dark fieldset,.LI-badge-container.horizontal.dark form,.LI-badge-container.horizontal.dark label,.LI-badge-container.horizontal.dark legend,.LI-badge-container.horizontal.dark table,.LI-badge-container.horizontal.dark caption,.LI-badge-container.horizontal.dark tbody,.LI-badge-container.horizontal.dark tfoot,.LI-badge-container.horizontal.dark thead,.LI-badge-container.horizontal.dark tr,.LI-badge-container.horizontal.dark th,.LI-badge-container.horizontal.dark td,.LI-badge-container.horizontal.dark article,.LI-badge-container.horizontal.dark aside,.LI-badge-container.horizontal.dark canvas,.LI-badge-container.horizontal.dark details,.LI-badge-container.horizontal.dark embed,.LI-badge-container.horizontal.dark figure,.LI-badge-container.horizontal.dark figcaption,.LI-badge-container.horizontal.dark footer,.LI-badge-container.horizontal.dark header,.LI-badge-container.horizontal.dark hgroup,.LI-badge-container.horizontal.dark menu,.LI-badge-container.horizontal.dark nav,.LI-badge-container.horizontal.dark output,.LI-badge-container.horizontal.dark ruby,.LI-badge-container.horizontal.dark section,.LI-badge-container.horizontal.dark summary,.LI-badge-container.horizontal.dark time,.LI-badge-container.horizontal.dark mark,.LI-badge-container.horizontal.dark audio,.LI-badge-container.horizontal.dark video {
+  text-decoration: none;
+  line-height: normal;
+  letter-spacing: normal;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box
+}
+
+.LI-badge-container.horizontal.dark .LI-name-container {
+  margin: 25px 20px 0px 25px;
+  display: flex
+}
+
+.LI-badge-container.horizontal.dark .LI-profile-pic-container {
+  margin-right: 10px;
+  padding-bottom: 10px
+}
+
+.LI-badge-container.horizontal.dark .LI-field {
+  margin-bottom: 10px;
+  font-size: 13px;
+  line-height: 17px;
+  color: #737679;
+  color: rgba(0,0,0,0.55);
+  font-weight: normal
+}
+
+.LI-badge-container.horizontal.dark .LI-field a {
+  font-size: 13px;
+  line-height: 17px;
+  color: #737679;
+  color: rgba(0,0,0,0.55);
+  font-weight: normal;
+  text-decoration: none;
+  vertical-align: middle
+}
+
+.LI-badge-container.horizontal.dark .LI-field a.hover,.LI-badge-container.horizontal.dark .LI-field a:hover,.LI-badge-container.horizontal.dark .LI-field a.focus,.LI-badge-container.horizontal.dark .LI-field a:focus {
+  text-decoration: none;
+  color: #006fa6;
+  cursor: pointer
+}
+
+.ie .LI-badge-container.horizontal.dark .LI-field a.hover,.ie .LI-badge-container.horizontal.dark .LI-field a:hover,.ie .LI-badge-container.horizontal.dark .LI-field a.focus,.ie .LI-badge-container.horizontal.dark .LI-field a:focus {
+  cursor: hand
+}
+
+.LI-badge-container.horizontal.dark .LI-field a.active,.LI-badge-container.horizontal.dark .LI-field a:active {
+  color: #005e93
+}
+
+.LI-badge-container.horizontal.dark .LI-field a.visited-hover,.LI-badge-container.horizontal.dark .LI-field a:visited:hover,.LI-badge-container.horizontal.dark .LI-field a:visited:focus,.LI-badge-container.horizontal.dark .LI-field a.visited:hover,.LI-badge-container.horizontal.dark .LI-field a.visited:focus {
+  color: #005e93;
+  text-decoration: none
+}
+
+.LI-badge-container.horizontal.dark .LI-field a.visited-active,.LI-badge-container.horizontal.dark .LI-field a:visited:active,.LI-badge-container.horizontal.dark .LI-field a.visited:active {
+  color: #005e93
+}
+
+.LI-badge-container.horizontal.dark .LI-title {
+  display: block;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 16px;
+  color: #232629;
+  color: rgba(0,0,0,0.85)
+}
+
+.LI-badge-container.horizontal.dark .LI-name {
+  display: block;
+  font-size: 18px;
+  line-height: 22px;
+  color: #434649;
+  color: rgba(0,0,0,0.7);
+  font-weight: bold
+}
+
+.LI-badge-container.horizontal.dark .LI-name a {
+  font-size: 18px;
+  line-height: 22px;
+  color: #434649;
+  color: rgba(0,0,0,0.7);
+  font-weight: bold;
+  text-decoration: none
+}
+
+.LI-badge-container.horizontal.dark .LI-name a.hover,.LI-badge-container.horizontal.dark .LI-name a:hover,.LI-badge-container.horizontal.dark .LI-name a.focus,.LI-badge-container.horizontal.dark .LI-name a:focus {
+  text-decoration: none;
+  color: #006fa6;
+  cursor: pointer
+}
+
+.ie .LI-badge-container.horizontal.dark .LI-name a.hover,.ie .LI-badge-container.horizontal.dark .LI-name a:hover,.ie .LI-badge-container.horizontal.dark .LI-name a.focus,.ie .LI-badge-container.horizontal.dark .LI-name a:focus {
+  cursor: hand
+}
+
+.LI-badge-container.horizontal.dark .LI-name a.active,.LI-badge-container.horizontal.dark .LI-name a:active {
+  color: #005e93
+}
+
+.LI-badge-container.horizontal.dark .LI-name a.visited-hover,.LI-badge-container.horizontal.dark .LI-name a:visited:hover,.LI-badge-container.horizontal.dark .LI-name a:visited:focus,.LI-badge-container.horizontal.dark .LI-name a.visited:hover,.LI-badge-container.horizontal.dark .LI-name a.visited:focus {
+  color: #005e93;
+  text-decoration: none
+}
+
+.LI-badge-container.horizontal.dark .LI-name a.visited-active,.LI-badge-container.horizontal.dark .LI-name a:visited:active,.LI-badge-container.horizontal.dark .LI-name a.visited:active {
+  color: #005e93
+}
+
+.LI-badge-container.horizontal.dark .LI-row:after {
+  content: "\0020";
+  display: block;
+  height: 0;
+  clear: both;
+  overflow: hidden;
+  visibility: hidden
+}
+
+.LI-badge-container.horizontal.dark .LI-col {
+  float: left
+}
+
+.LI-badge-container.horizontal.dark .LI-header {
+  width: 70%
+}
+
+.LI-badge-container.horizontal.dark .LI-logo {
+  position: absolute;
+  bottom: 0;
+  right: 5px
+}
+
+.LI-badge-container.horizontal.dark .LI-icon {
+  padding-top: 6px;
+  width: 85px;
+  max-height: 20px
+}
+
+.LI-badge-container.horizontal.dark .LI-footer {
+  margin: 0px 15px 20px 25px;
+  position: relative
+}
+
+.LI-badge-container.horizontal.dark .LI-field-icon {
+  width: 24px;
+  height: 24px;
+  margin-right: 10px;
+  vertical-align: middle
+}
+
+.LI-badge-container.horizontal.dark html,.LI-badge-container.horizontal.dark body,.LI-badge-container.horizontal.dark div,.LI-badge-container.horizontal.dark span,.LI-badge-container.horizontal.dark applet,.LI-badge-container.horizontal.dark object,.LI-badge-container.horizontal.dark iframe,.LI-badge-container.horizontal.dark h1,.LI-badge-container.horizontal.dark h2,.LI-badge-container.horizontal.dark h3,.LI-badge-container.horizontal.dark h4,.LI-badge-container.horizontal.dark h5,.LI-badge-container.horizontal.dark h6,.LI-badge-container.horizontal.dark p,.LI-badge-container.horizontal.dark blockquote,.LI-badge-container.horizontal.dark pre,.LI-badge-container.horizontal.dark a,.LI-badge-container.horizontal.dark abbr,.LI-badge-container.horizontal.dark acronym,.LI-badge-container.horizontal.dark address,.LI-badge-container.horizontal.dark big,.LI-badge-container.horizontal.dark cite,.LI-badge-container.horizontal.dark code,.LI-badge-container.horizontal.dark del,.LI-badge-container.horizontal.dark dfn,.LI-badge-container.horizontal.dark em,.LI-badge-container.horizontal.dark img,.LI-badge-container.horizontal.dark ins,.LI-badge-container.horizontal.dark kbd,.LI-badge-container.horizontal.dark q,.LI-badge-container.horizontal.dark s,.LI-badge-container.horizontal.dark samp,.LI-badge-container.horizontal.dark small,.LI-badge-container.horizontal.dark strike,.LI-badge-container.horizontal.dark strong,.LI-badge-container.horizontal.dark sub,.LI-badge-container.horizontal.dark sup,.LI-badge-container.horizontal.dark tt,.LI-badge-container.horizontal.dark var,.LI-badge-container.horizontal.dark b,.LI-badge-container.horizontal.dark u,.LI-badge-container.horizontal.dark i,.LI-badge-container.horizontal.dark center,.LI-badge-container.horizontal.dark dl,.LI-badge-container.horizontal.dark dt,.LI-badge-container.horizontal.dark dd,.LI-badge-container.horizontal.dark ol,.LI-badge-container.horizontal.dark ul,.LI-badge-container.horizontal.dark li,.LI-badge-container.horizontal.dark fieldset,.LI-badge-container.horizontal.dark form,.LI-badge-container.horizontal.dark label,.LI-badge-container.horizontal.dark legend,.LI-badge-container.horizontal.dark table,.LI-badge-container.horizontal.dark caption,.LI-badge-container.horizontal.dark tbody,.LI-badge-container.horizontal.dark tfoot,.LI-badge-container.horizontal.dark thead,.LI-badge-container.horizontal.dark tr,.LI-badge-container.horizontal.dark th,.LI-badge-container.horizontal.dark td,.LI-badge-container.horizontal.dark article,.LI-badge-container.horizontal.dark aside,.LI-badge-container.horizontal.dark canvas,.LI-badge-container.horizontal.dark details,.LI-badge-container.horizontal.dark embed,.LI-badge-container.horizontal.dark figure,.LI-badge-container.horizontal.dark figcaption,.LI-badge-container.horizontal.dark footer,.LI-badge-container.horizontal.dark header,.LI-badge-container.horizontal.dark hgroup,.LI-badge-container.horizontal.dark menu,.LI-badge-container.horizontal.dark nav,.LI-badge-container.horizontal.dark output,.LI-badge-container.horizontal.dark ruby,.LI-badge-container.horizontal.dark section,.LI-badge-container.horizontal.dark summary,.LI-badge-container.horizontal.dark time,.LI-badge-container.horizontal.dark mark,.LI-badge-container.horizontal.dark audio,.LI-badge-container.horizontal.dark video {
+  background: #303336
+}
+
+.LI-badge-container.horizontal.dark .LI-field {
+  color: #fff
+}
+
+.LI-badge-container.horizontal.dark .LI-field a {
+  color: #fff
+}
+
+.LI-badge-container.horizontal.dark .LI-title {
+  color: #fff
+}
+
+.LI-badge-container.horizontal.dark .LI-name {
+  color: #fff
+}
+
+.LI-badge-container.horizontal.dark .LI-name a {
+  color: #fff
+}
+
+.LI-badge-container.horizontal.dark .LI-view-profile {
+  font-weight: bold;
+  border-width: 1px;
+  border-style: solid;
+  cursor: pointer;
+  margin: 0;
+  overflow: visible;
+  text-decoration: none !important;
+  text-align: center;
+  width: auto;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  -ms-border-radius: 2px;
+  -o-border-radius: 2px;
+  border-radius: 2px;
+  padding: 0 13px;
+  height: 31px;
+  line-height: 31px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  font-size: 13px;
+  color: #fff;
+  background-color: #008cc9;
+  border-color: #008cc9;
+  white-space: nowrap;
+  display: -moz-inline-stack;
+  display: inline-block;
+  vertical-align: middle;
+  *vertical-align: auto;
+  zoom:1;*display: inline;
+  vertical-align: middle
+}
+
+.LI-badge-container.horizontal.dark .LI-view-profile.hover,.LI-badge-container.horizontal.dark .LI-view-profile:hover,.LI-badge-container.horizontal.dark .LI-view-profile.focus,.LI-badge-container.horizontal.dark .LI-view-profile:focus {
+  background-color: #0077b5;
+  border-color: #0077b5
+}
+
+.LI-badge-container.horizontal.dark .LI-view-profile.active,.LI-badge-container.horizontal.dark .LI-view-profile:active {
+  background-color: #005e93;
+  border-color: #005e93
+}
+
+.LI-badge-container.horizontal.dark .LI-view-profile.disabled,.LI-badge-container.horizontal.dark .LI-view-profile[disabled] {
+  background-color: #008cc9;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  cursor: default;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=40);
+  opacity: 0.4
+}
+
+.LI-badge-container.horizontal.dark .LI-view-profile:hover,.LI-badge-container.horizontal.dark .LI-view-profile:visited {
+  color: #fff !important
+}
+
+.LI-badge-container.horizontal.dark {
+  width: 280px
+}
+
+.LI-badge-container.horizontal.dark .LI-name-container {
+  margin: 15px 15px 0px 15px;
+  display: flex
+}
+
+.LI-badge-container.horizontal.dark .LI-name a {
+  font-size: 16px;
+  line-height: 20px
+}
+
+.LI-badge-container.horizontal.dark .LI-profile-pic {
+  width: 50px;
+  height: 50px;
+  margin: 6px auto 0 auto
+}
+
+.LI-badge-container.horizontal.dark .LI-title {
+  padding-top: 5px;
+  font-size: 13px
+}
+
+.LI-badge-container.horizontal.dark .LI-more-info {
+  padding: 10px 15px 10px 15px
+}
+
+.LI-badge-container.horizontal.dark .LI-field {
+  margin-bottom: 10px;
+  font-size: 13px
+}
+
+.LI-badge-container.horizontal.dark .LI-field-icon {
+  width: 16px;
+  height: 16px
+}
+
+.LI-badge-container.horizontal.dark .LI-header {
+  width: 65%
+}
+
+.LI-badge-container.horizontal.dark .LI-footer {
+  margin: 0px 15px 20px 15px
+}
