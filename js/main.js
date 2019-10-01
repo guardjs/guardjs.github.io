@@ -455,7 +455,7 @@
 		gettingStartedAnimate();
 		// pricingAnimate();
 		servicesAnimate();
-		// teamAnimate();
+		teamAnimate();
 		footerAnimate();
 		counter();
 		counterWayPoint();
