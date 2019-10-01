@@ -451,11 +451,11 @@
 		
 		// Animations
 		homeAnimate();
-		exploreAnimate();
+		// exploreAnimate();
 		gettingStartedAnimate();
-		pricingAnimate();
-		servicesAnimate();
-		teamAnimate();
+		// pricingAnimate();
+		// servicesAnimate();
+		// teamAnimate();
 		footerAnimate();
 		counter();
 		counterWayPoint();
