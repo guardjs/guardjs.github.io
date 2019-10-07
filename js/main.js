@@ -62,7 +62,8 @@
 			$(this).find('a[data-nav-section="' + section + '"]').closest('li').addClass('active');
 		});
 	}; var navigationSection = function () {
-		var $section = $('section[data-section]'); $section.waypoint(function (direction) {
+		var $section = $('section[data-section]');
+		$section.waypoint(function (direction) {
 			if (direction === 'down') {
 				navActive($(this.element).data('section'));
 			}
@@ -79,16 +80,16 @@
 	var windowScroll = function () {
 		var lastScrollTop = 0; $(window).scroll(function (event) {
 			var header = $('#fh5co-header'),
-			scrlTop = $(this).scrollTop(); if (scrlTop > 500 && scrlTop <= 2000) {
-				header.addClass('navbar-fixed-top fh5co-animated slideInDown');
-			} else if (scrlTop <= 500) {
-				if (header.hasClass('navbar-fixed-top')) {
-					header.addClass('navbar-fixed-top fh5co-animated slideOutUp');
-					setTimeout(function () {
-						header.removeClass('navbar-fixed-top fh5co-animated slideInDown slideOutUp');
-					}, 100);
+				scrlTop = $(this).scrollTop(); if (scrlTop > 500 && scrlTop <= 2000) {
+					header.addClass('navbar-fixed-top fh5co-animated slideInDown');
+				} else if (scrlTop <= 500) {
+					if (header.hasClass('navbar-fixed-top')) {
+						header.addClass('navbar-fixed-top fh5co-animated slideOutUp');
+						setTimeout(function () {
+							header.removeClass('navbar-fixed-top fh5co-animated slideInDown slideOutUp');
+						}, 100);
+					}
 				}
-			}
 		});
 	};
 	// Animations
@@ -212,19 +213,19 @@
 			team.waypoint(function (direction) {
 				if (direction === 'down' && !$(this.element).hasClass('animated')) {
 					var sec = team.find('.to-animate').length,
-					sec = parseInt((sec * 200) + 400); setTimeout(function () {
-						team.find('.to-animate').each(function (k) {
-							var el = $(this); setTimeout(function () {
-								el.addClass('fadeIn animated');
-							}, k * 200, 'easeInOutExpo');
-						});
-					}, 200); setTimeout(function () {
-						team.find('.to-animate-2').each(function (k) {
-							var el = $(this); setTimeout(function () {
-								el.addClass('fadeInUp animated');
-							}, k * 200, 'easeInOutExpo');
-						});
-					}, sec);
+						sec = parseInt((sec * 200) + 400); setTimeout(function () {
+							team.find('.to-animate').each(function (k) {
+								var el = $(this); setTimeout(function () {
+									el.addClass('fadeIn animated');
+								}, k * 200, 'easeInOutExpo');
+							});
+						}, 200); setTimeout(function () {
+							team.find('.to-animate-2').each(function (k) {
+								var el = $(this); setTimeout(function () {
+									el.addClass('fadeInUp animated');
+								}, k * 200, 'easeInOutExpo');
+							});
+						}, sec);
 					$(this.element).addClass('animated');
 				}
 			}, { offset: '80%' });
