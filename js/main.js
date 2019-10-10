@@ -271,7 +271,7 @@
 		windowScroll();
 		navigationSection();		// Animations
 		homeAnimate();
-		// exploreAnimate();
+		exploreAnimate();
 		gettingStartedAnimate();
 		// pricingAnimate();
 		servicesAnimate();
